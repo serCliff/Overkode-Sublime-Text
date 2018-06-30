@@ -1,0 +1,4 @@
+{
+	"python_interpreter": "/usr/local/bin/python3",
+	"extra_paths": ["/usr/local/lib/python3.6/site-packages/"],
+}

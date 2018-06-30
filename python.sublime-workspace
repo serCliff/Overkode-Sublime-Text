@@ -1,0 +1,1399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_values"
+			],
+			[
+				"Tex",
+				"TextCommand"
+			],
+			[
+				"Over",
+				"OverkodeFileData\tclass"
+			],
+			[
+				"ciga",
+				"cigarrillos electronicos salamanca"
+			],
+			[
+				"Puede",
+				"puente de mayo"
+			],
+			[
+				"subli",
+				"sublime_plugin"
+			],
+			[
+				"sel",
+				"self\tparam"
+			],
+			[
+				"all",
+				"allcontent\tstatement"
+			],
+			[
+				"comp",
+				"company_id"
+			],
+			[
+				"ta",
+				"tax_ids"
+			],
+			[
+				"payment",
+				"payment_date"
+			],
+			[
+				"dest",
+				"destination_id\tstatement"
+			],
+			[
+				"open",
+				"open_cashbox"
+			],
+			[
+				"add",
+				"addons"
+			],
+			[
+				"for",
+				"forin\tfor … in … done"
+			],
+			[
+				"LAST_",
+				"LAST_BUP"
+			],
+			[
+				"fo",
+				"forin\tfor … in … done"
+			],
+			[
+				"BU",
+				"BUP_NAME"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"retu",
+				"return-from"
+			],
+			[
+				"reu",
+				"resultado"
+			],
+			[
+				"list",
+				"list_i\tstatement"
+			],
+			[
+				"self",
+				"self.location"
+			],
+			[
+				"fill",
+				"fill_warehouse\tfunction"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"tot",
+				"total_distance"
+			],
+			[
+				"st",
+				"startswith"
+			],
+			[
+				"ope",
+				"openSet\tstatement"
+			],
+			[
+				"get",
+				"get_neighbors"
+			],
+			[
+				"tota",
+				"total_path"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"nei",
+				"neighbor"
+			],
+			[
+				"curre",
+				"current"
+			],
+			[
+				"dist",
+				"distance"
+			],
+			[
+				"get_",
+				"get_neighbors"
+			],
+			[
+				"lowe",
+				"lowest_fScore"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"curren",
+				"current_location"
+			],
+			[
+				"collec",
+				"collected"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"orde",
+				"orders"
+			],
+			[
+				"or",
+				"order\tparam"
+			],
+			[
+				"have",
+				"have_no_resources"
+			],
+			[
+				"max",
+				"max_loc"
+			],
+			[
+				"best",
+				"best_enclave"
+			],
+			[
+				"location",
+				"locations"
+			],
+			[
+				"locat",
+				"locations"
+			],
+			[
+				"ui",
+				"units"
+			],
+			[
+				"ware",
+				"warehouse_item"
+			],
+			[
+				"max_",
+				"max_loc\tstatement"
+			],
+			[
+				"i",
+				"item\tstatement"
+			],
+			[
+				"en",
+				"Enclave\tclass"
+			],
+			[
+				"fin",
+				"final"
+			],
+			[
+				"ord",
+				"order_distance\tstatement"
+			],
+			[
+				"fina",
+				"final_distance"
+			],
+			[
+				"fian",
+				"final_distance\tstatement"
+			],
+			[
+				"PEDIDO",
+				"Pedido"
+			],
+			[
+				"En",
+				"Enclave"
+			],
+			[
+				"encl",
+				"Enclave"
+			],
+			[
+				"item",
+				"Item"
+			],
+			[
+				"v",
+				"variable"
+			],
+			[
+				"ret",
+				"returnValue"
+			],
+			[
+				"RETU",
+				"return"
+			],
+			[
+				"re",
+				"returnCuerpo"
+			],
+			[
+				"retun",
+				"returnUnificar"
+			],
+			[
+				"pri",
+				"primerPaso"
+			],
+			[
+				"RET",
+				"return-from"
+			],
+			[
+				"e1",
+				"e1e2"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"susti",
+				"sustituidos"
+			],
+			[
+				"con",
+				"concatenaResto"
+			],
+			[
+				"compo",
+				"composicion"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"pr",
+				"primerResultado"
+			],
+			[
+				"com",
+				"componerLista"
+			],
+			[
+				"let",
+				"let\tlet"
+			],
+			[
+				"Dis",
+				"Distancia"
+			],
+			[
+				"linear",
+				"linearecorrida"
+			],
+			[
+				"linea",
+				"lineapedido"
+			],
+			[
+				"es",
+				"es_conexion"
+			],
+			[
+				"esta",
+				"esta_conectado"
+			],
+			[
+				"dis",
+				"dis_rec"
+			],
+			[
+				"conte",
+				"conectado"
+			],
+			[
+				"up",
+				"update_products\tfunction"
+			],
+			[
+				"update",
+				"update_products"
+			],
+			[
+				"in",
+				"index\tstatement"
+			],
+			[
+				"las",
+				"last_change"
+			],
+			[
+				"g",
+				"groups\tstatement"
+			],
+			[
+				"tabl",
+				"table\tparam"
+			],
+			[
+				"link",
+				"linksAvailableProducts\tstatement"
+			],
+			[
+				"gene",
+				"general_categories\tstatement"
+			],
+			[
+				"gener",
+				"general_price\tstatement"
+			],
+			[
+				"exc",
+				"exception"
+			],
+			[
+				"upda",
+				"update_data\tfunction"
+			],
+			[
+				"links",
+				"linksDeletedProducts\tstatement"
+			],
+			[
+				"chekc",
+				"check_pays"
+			],
+			[
+				"GET",
+				"get_my_ip\tfunction"
+			],
+			[
+				"user",
+				"user_id\tstatement"
+			],
+			[
+				"sen",
+				"send_admins_message\tfunction"
+			],
+			[
+				"RE",
+				"ReplyKeyboardRemove\tclass"
+			],
+			[
+				"pub",
+				"PUBLISH\tstatement"
+			],
+			[
+				"C",
+				"ConversationHandler\tclass"
+			],
+			[
+				"send",
+				"send_broadcast_message\tfunction"
+			],
+			[
+				"USER",
+				"user_info\tfunction"
+			],
+			[
+				"SEN",
+				"send_admins_message\tfunction"
+			],
+			[
+				"noti",
+				"notifications"
+			],
+			[
+				"del",
+				"del_subscription"
+			],
+			[
+				"tab",
+				"table\tstatement"
+			],
+			[
+				"FLOAT",
+				"float\tclass"
+			],
+			[
+				"p",
+				"print\tkeyword"
+			],
+			[
+				"paid",
+				"paid_users\tstatement"
+			],
+			[
+				"u",
+				"user_info\tfunction"
+			],
+			[
+				"DEB",
+				"DEBUG.ERROR"
+			],
+			[
+				"bot",
+				"bot_users"
+			],
+			[
+				"toke",
+				"token_bot\tfunction"
+			],
+			[
+				"chec",
+				"check_threads"
+			],
+			[
+				"week",
+				"weekdays"
+			],
+			[
+				"second",
+				"seconds\tinstance"
+			],
+			[
+				"sta",
+				"start_bot\tfunction"
+			],
+			[
+				"de",
+				"DEBUG\tparam"
+			],
+			[
+				"se",
+				"send_admins_message\tfunction"
+			],
+			[
+				"ip",
+				"iprint1\tmodule"
+			],
+			[
+				"admi",
+				"admins\tstatement"
+			],
+			[
+				"R",
+				"reports_path\tstatement"
+			],
+			[
+				"check",
+				"CHECK\tmodule"
+			],
+			[
+				"save",
+				"save_user_data"
+			],
+			[
+				"ch",
+				"check_option"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "listener.py",
+			"settings":
+			{
+				"buffer_size": 9912,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sample/main.py",
+			"settings":
+			{
+				"buffer_size": 3495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 277.0,
+		"last_filter": "build",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"TODO",
+				"TodoReview: Open Files"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git fi",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"TODO OP",
+				"TodoReview: Open Files"
+			],
+			[
+				"git co",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"GIT LOG",
+				"Git: Log All"
+			],
+			[
+				"GIT COM",
+				"Git: Commit"
+			],
+			[
+				"GITA",
+				"Git: Add All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remos",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"asdadasdasddasd",
+			"view.runCommand('google') ",
+			"view.runCommand('listener') ",
+			"view.runCommand('rot13') ",
+			"view.run_command('example')",
+			"allcontent = sublime.Region(0, self.view.size())",
+			"view.run_command('example')",
+			"view.run_command('example','1')",
+			"view.run_command('example')",
+			"Example.run_command('example')",
+			"view.run_command('example')",
+			"Example.run_command('example')",
+			"view.run_command('example')",
+			"[",
+			"view.run_command('example')",
+			"view.run_command('example', 'asdas')",
+			"view.run_command('example')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/python.sublime-project",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/controller/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/sample/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/Context.sublime-menu",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/ProjectController.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/utils/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/core/controller/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/OverKode/core/__init__.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/Context.sublime-menu",
+		"/Users/sergio-osx/Downloads/nueva_vapisteria/vapisteria_24-03-2018_11-57/addons/base/res/res_users.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/main.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/Project.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/DataController.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/aux.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/UpdatesController.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/Example/example.py",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/example.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/auth.py",
+		"/Users/sergio-osx/Dropbox/TFG/Overkode/README.md",
+		"/Users/sergio-osx/overkode.sh",
+		"/Users/sergio-osx/Dropbox/Overkode/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/models/default_product_taxes.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/__manifest__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/views/default_taxes_views.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/data/record_tax.xml",
+		"/Users/sergio-osx/Desktop/Screen Shot 2018-03-30 at 13.27.46.png",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/views/pos_session_views.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/default_product_tax/models/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/models/pos_session_bank.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/i18n/es.po",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/README.md",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/sergio-osx/Desktop/untitled.xml",
+		"/Users/sergio-osx/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/__manifest__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/__manifest__.py",
+		"/Users/sergio-osx/Desktop/untitled.XNL",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/views/account_payment_views.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/README.md",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/pos_session_bank/models/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/models/account_internal_moves.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/views/account_pos_moves_views.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/wizard/transfer_move.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/account_internal_moves/models/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/__manifest__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/models/__init__.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/models/vap_pos_session.py",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/views/pos_session_view.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/views/pos_view.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_product_imp/views/views.xml",
+		"/Users/sergio-osx/Google Drive/VAPISTERIA/odoo_modules/vap_pos_session/views/templates.xml",
+		"/Users/sergio-osx/Dropbox/scripts/backup_odoo_MOD.sh",
+		"/Users/sergio-osx/Dropbox/scripts/odoo_v10.sh",
+		"/Users/sergio-osx/Dropbox/scripts/restore_odoo.sh",
+		"/Users/sergio-osx/Dropbox/scripts/backup_odoo.sh",
+		"/Users/sergio-osx/Downloads/nueva_vapisteria/vapisteria_24-03-2018_10-54/addons/base/res/res_users.py",
+		"/Users/sergio-osx/Desktop/ticket.xml",
+		"/Users/sergio-osx/Downloads/product.template.csv",
+		"/Users/sergio-osx/Downloads/product.template (3).csv",
+		"/Users/sergio-osx/Downloads/error 2018-03-14-20-38-57.txt",
+		"/Users/sergio-osx/Desktop/pos.xml",
+		"/Users/sergio-osx/Downloads/Telegram Desktop/hosts",
+		"/Users/sergio-osx/Downloads/bup_cleaner.sh",
+		"/Users/sergio-osx/Dropbox/AA_SCRIPTS/shareKeys_nopass.sh",
+		"/Users/sergio-osx/Downloads/home/ecotisa/Escritorio/sergio/scripts/backup_odoo.sh",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Sistemas distribuidos/SisDis/scripts/shareKeys_nopass.sh",
+		"/Users/sergio-osx/Downloads/Telegram Desktop/bup.sh",
+		"/Users/sergio-osx/Desktop/maria_mercede_outon_nieto.xml",
+		"/Users/sergio-osx/Desktop/celedonia_lazaro_agarabaya.csv",
+		"/Users/sergio-osx/Desktop/todos_NOAH.xml",
+		"/Volumes/Mirror for Android TV 2.1.7/Help.txt",
+		"/Users/sergio-osx/Dropbox/odoo/crm-10.0/crm_phonecall/report/crm_phonecall_report_view.xml",
+		"/Volumes/boot/octopi-network.txt",
+		"/Users/sergio-osx/Desktop/reportes backup.xml",
+		"/Users/sergio-osx/Downloads/articulos/manuela/Workbook1.csv",
+		"/Users/sergio-osx/Downloads/articulos/agustin/import2.csv",
+		"/Users/sergio-osx/Downloads/Telegram Desktop/import2.csv",
+		"/Users/sergio-osx/Downloads/articulos/manuela/clients_parsed_salamanca.csv",
+		"/Users/sergio-osx/Downloads/articulos/manuela/clientes_badajoz.csv",
+		"/Users/sergio-osx/Downloads/articulos/manuela/clientes_badajoz_AM.csv",
+		"/Users/sergio-osx/Downloads/articulos/manuela/clientes_p.csv",
+		"/Users/sergio-osx/Downloads/articulos/manuela/parse_contacts.py",
+		"/Users/sergio-osx/Downloads/articulos/parse_articles.py",
+		"/Users/sergio-osx/Downloads/articulos/art.csv",
+		"/Users/sergio-osx/Downloads/articulos/articulos.csv",
+		"/Users/sergio-osx/Downloads/Telegram Desktop/articulos.csv",
+		"/Users/sergio-osx/Downloads/CSV Templates/product catalog.csv",
+		"/Users/sergio-osx/Dropbox/xdag/bnb.txt",
+		"/Users/sergio-osx/Desktop/R/lisp/main.lisp",
+		"/Users/sergio-osx/Desktop/R/lisp/unificacion.LISP",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica3/Redes/sockets2016/olivo/servidor.c",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica3/Redes/sockets2016/Sockets/servidor.c",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica3/Redes/sockets2016/Sockets/clientcp.c",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica3/Redes/sockets2016/Sockets/clientcp",
+		"/Users/sergio-osx/Desktop/R/lisp/aparece.LISP",
+		"/Users/sergio-osx/Dropbox/S-Angel_facul/LISP/practica/README.md",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/LISP/practica/aparece.lisp",
+		"/Users/sergio-osx/Desktop/rodri.pro",
+		"/Users/sergio-osx/Downloads/Telegram Desktop/amazon (3).pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/G2/pautas.txt",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/PROLOG/PROLOG/amazon pro/amazon.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/PROLOG/PROLOG/amazon pro/backup.pro",
+		"/private/var/folders/ym/d8g2thxs1vs9c6nf13lfds100000gn/T/7cfa9036-36aa-42b5-951d-ba2bb14d2258/media/hdd/MEDIA/bot/bot_qb.py",
+		"/Users/sergio-osx/.Trash/bot_qb 20-02-59-790.py",
+		"/Users/sergio-osx/Dropbox/IMPRESORA/PRINTS/LIJA/Customizable_Sanding_Stick/files/customizable_sanding_stick.scad",
+		"/Volumes/U/JAIKS/botonjaiks.gcode",
+		"/Users/sergio-osx/Dropbox/IMPRESORA/PRINTS/ANYCUBIK/FIRMWARE ORIGINAL/Anycubic_kossel/Anycubic_kossel/Anycubic_kossel/Marlin_main.cpp",
+		"/Users/sergio-osx/Dropbox/S-Angel_facul/LISP/practica/res lineal:",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 1 - LISP/practica_lisp/readme.txt",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 1 - LISP/practica_lisp/exe.lisp",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/PROLOG/EjemplosProlog/ejemplos/ejemplos.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 2 - Prolog/rubik/rubik.inc",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 2 - Prolog/rubik/rubik.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/PROLOG/EjemplosProlog/pastor/pastor.pro",
+		"/Users/sergio-osx/Dropbox/S-Angel facul/amazon pro/amazon.pre",
+		"/Users/sergio-osx/Dropbox/S-Angel facul/amazon pro/amazon.inc",
+		"/Users/sergio-osx/Dropbox/S-Angel facul/amazon pro/amazon.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 2 - Prolog/rubik.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/2º/PROLOG/EjemplosProlog/pasatiempos/pasatiempos.pro",
+		"/Users/sergio-osx/Dropbox/IngenieriaInformatica4/Fund Sis Inteligentes/Practicas/1º/Practica 2 - Prolog/EjemplosProlog/pasatiempos/pasatiempos.pro"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".",
+			"import",
+			"..",
+			"aux.",
+			"pretty",
+			"controller",
+			"import",
+			"aux",
+			":",
+			", ",
+			" = ",
+			"view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "listener.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3571,
+								3571
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.27.region_keys":
+							[
+							],
+							"SL.37.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								100
+							]
+						],
+						"settings":
+						{
+							"SL.28.region_keys":
+							[
+							],
+							"SL.65.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"TodoReview"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
